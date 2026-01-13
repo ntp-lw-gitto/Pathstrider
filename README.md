@@ -37,5 +37,6 @@ Essentially, turning your screentime into a digital working space, rather than a
 ## Notes
 This project was built on a no-code/low-code platform, therefore the
 source code is not directly accessible.
-# Pathstrider
+
+
 
